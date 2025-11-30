@@ -1,0 +1,2 @@
+++ Tool usada para recuperar credenciales en Sistemas Windows
+--- URL del proyecto: https://github.com/AlessandroZ/LaZagne
